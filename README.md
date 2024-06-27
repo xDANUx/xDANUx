@@ -1,4 +1,4 @@
-![logo](https://github.com/xDANUx/xDANUx/blob/main/20240627_074149.jpg)
+![logo](https://github.com/xDANUx/xDANUx/blob/main/banner.jpg)
 <h1 align="center">Hi 👋, I'm Dhanurdha Rashmika</h1>
 <h3 align="center">I'm A Student Trying To Learn Everythings</h3>
 
