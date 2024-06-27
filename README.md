@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhanurdha Rashmika</h1>
 <h3 align="center">I'm A Student Trying To Learn Everythings</h3>
 
-<ing align="right" alt-"coding" width="400" src="https://i.pinimg.com/originals/9d/f3/a7/9df3a736e4cbb67373886b6e5ce05877.gif"
+<img align="right" alt-"coding" width="400" src="https://i.pinimg.com/originals/9d/f3/a7/9df3a736e4cbb67373886b6e5ce05877.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdanux&label=Profile%20views&color=0e75b6&style=flat" alt="xdanux" /> </p>
 
