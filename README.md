@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **epxdanuwa7@gmail.com**
 
-- ⚡ Fun fact **I Think I am Work Like A Little Kid In Love**
+- ⚡ Fun fact ****
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
