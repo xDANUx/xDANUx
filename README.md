@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdanux&label=Profile%20views&color=0e75b6&style=flat" alt="xdanux" /> </p>
 
-- 🔭 I’m currently working on **SealLions RP**
+- 🔭 I’m currently working on **Norhing XD**
 
 - 🌱 I’m currently learning **Type Script**
 
